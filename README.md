@@ -4,4 +4,4 @@
 <br>
 <br>
 !['s GitHub stats](https://github-readme-stats.vercel.app/api?username=zodplugin&hide=contribs,prs&theme=dark)
-[wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=zodplugin)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zodplugin)](https://github.com/anuraghazra/github-readme-stats)
