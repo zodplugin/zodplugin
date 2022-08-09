@@ -2,4 +2,4 @@
 
 
 <br>
-[!preview]https://github-readme-stats.vercel.app/api?username=zodplugin&hide=contribs,prs&theme=dark
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zodplugin&hide=contribs,prs&theme=dark)
