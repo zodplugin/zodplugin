@@ -1,5 +1,5 @@
 - I’m currently learning Laravel
 
-
 <br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zodplugin&hide=contribs,prs&theme=dark)
+<br>
+[![Zodplugin wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=zodplugin)](https://github.com/anuraghazra/github-readme-stats)
