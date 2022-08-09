@@ -2,4 +2,4 @@
 
 
 <br>
-https://github-readme-stats.vercel.app/api?username=zodplugin&hide=contribs,prs&theme=dark
+[!preview]https://github-readme-stats.vercel.app/api?username=zodplugin&hide=contribs,prs&theme=dark
