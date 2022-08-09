@@ -1,5 +1,5 @@
-- I’m currently learning Laravel
+- ⚡ I’m currently learning Laravel
+<br>
+<br> 
 
-<br>
-<br>
 ![Zodplugin's GitHub stats](https://github-readme-stats.vercel.app/api?username=zodplugin&show_icons=true&theme=radical)
