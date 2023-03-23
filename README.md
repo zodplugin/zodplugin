@@ -1,4 +1,4 @@
-Focus on being a fullstack developer 💻
+Focus on being a Fullstack Developer 💻
 
 - ⚡ I’m currently learning Laravel
 - 🌠 I’m currently learning Node.js
