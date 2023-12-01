@@ -5,4 +5,4 @@ Focus on being a Fullstack Developer 💻
 <br> 
 
 ![Zodplugin's GitHub stats](https://github-readme-stats.vercel.app/api?username=zodplugin&show_icons=true)
-[![Zodplugin'Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zodplugin)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=zodplugin)](https://github.com/anuraghazra/github-readme-stats)
