@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=zodplugin)
+![](https://komarev.com/ghpvc/?username=zodplugin)<br>
 Focus on being a Fullstack Developer/Software Engineer 💻
 
 - ⚡ I’m currently learning Laravel
