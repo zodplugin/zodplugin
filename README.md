@@ -9,3 +9,5 @@ Focus on being a Fullstack Developer/Software Engineer 💻
 <br> 
 
 ![Zodplugin's GitHub stats](https://github-readme-stats.vercel.app/api?username=zodplugin&show_icons=true)
+
+<img width="220" height="220" alt="image" src="https://github.com/user-attachments/assets/1a6bb945-0094-4aa3-80bf-9eeea8f38bed" />
